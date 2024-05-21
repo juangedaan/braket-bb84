@@ -1,5 +1,8 @@
 # Quantum Key Distribution (QKD) with Amazon Braket
 
+![image](https://github.com/juangedaan/braket-bb84/assets/6960588/48b2b158-1150-4660-bd25-1d202a01d5fd)
+
+
 ## Introduction
 This project implements the Quantum Key Distribution (QKD) BB84 protocol using Amazon Braket SDK. Quantum Key Distribution allows two parties to produce a shared random secret key, which can then be used to encrypt and decrypt messages, ensuring secure communication based on the principles of quantum mechanics.
 
